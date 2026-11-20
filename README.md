@@ -1,6 +1,6 @@
 # Hi, I'm Junior Hernández 👋
 
-**Senior Full-Stack Engineer | Applied AI & Document Automation | Laravel · Python · Flutter**
+**Full-Stack AI Developer | Laravel · Vue/React · Python · Flutter**
 Based in Mexico City (GMT-6) · Open to remote roles with teams in the US, Canada and Europe
 
 I build production software, and lately the kind that has an LLM inside it without being fragile because of it.
