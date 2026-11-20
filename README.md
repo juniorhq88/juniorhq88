@@ -5,13 +5,15 @@ Based in Mexico City (GMT-6) · Open to remote roles with teams in the US, Canad
 
 I build production software, and lately the kind that has an LLM inside it without being fragile because of it.
 
-With **15 years building software**, I have worked across:
+With **15 years building software**:
 
-- Freelance developer for direct clients (since 2011)
-- Backend and full-stack engineer at product companies
-- Scrum Master for my own team
-- Software specialist on a distributed US and Canada team
-- Full-stack lead for web, mobile and AI automation at a customs brokerage
+| When | Role | Where |
+|---|---|---|
+| 2024 – now | Senior Full-Stack Developer | Customs brokerage, Mexico City: web, mobile and AI automation |
+| 2022 – 2024 | Software Specialist | Improving: document AI for a medical platform, distributed US and Canada teams |
+| 2020 – 2022 | Senior Backend Engineer | Denumeris: payments, ERP integrations, monitoring |
+| 2015 – 2020 | Software Engineer | BNN: web and mobile apps; introduced Scrum as Scrum Master |
+| 2011 – 2018 | Freelance PHP Developer | Direct clients and Workana: marketplaces, course platforms, FedEx API |
 
 ---
 
@@ -54,9 +56,9 @@ Most of my professional work lives in private repositories of employers and clie
 
 ## Tech stack
 
-**Backend:** PHP 8.4, Laravel, Livewire, Inertia.js, Python, FastAPI, Flask, Node.js, REST APIs, Redis queues, WebSockets
+**Backend:** PHP 8.4, Laravel, Livewire, Inertia.js, Python, FastAPI, Flask, Node.js, Express, REST APIs, Redis queues, WebSockets
 **AI & documents:** Gemini, OpenAI, Claude, Llama (fine-tuning, LoRA, RAG), Groq, Hugging Face, pgvector, AI agents, Google Document AI, Azure AI, n8n
-**Frontend & mobile:** Vue 3, React, TypeScript, Next.js, Tailwind CSS, Flutter
+**Frontend & mobile:** Vue 3, React, Angular, TypeScript, Next.js, Tailwind CSS, Flutter
 **Cloud & data:** Google Cloud (Cloud Run, Cloud Functions, Vertex AI, BigQuery), AWS, Azure, Docker, GitHub Actions, MySQL, PostgreSQL
 **Quality:** PHPUnit, Pest, pytest, PHPStan
 
@@ -68,6 +70,11 @@ Most of my professional work lives in private repositories of employers and clie
   - *Applied AI with Open Models*: 4 of 4 modules at 10/10. Fine-tuning and LoRA with Llama
   - *Intelligent Automation with WhatsApp*: RAG with Llama and the WhatsApp Cloud API
 - Professional Scrum Master I and Professional Scrum Developer I, Scrum.org (2023)
+
+## Education
+
+- Computer and Information Sciences coursework (BASc program), Southern New Hampshire University (2024 – 2025)
+- Computer Science Technician, Instituto Politécnico Fernando Aguado Rico, Havana (2007)
 
 ---
 
