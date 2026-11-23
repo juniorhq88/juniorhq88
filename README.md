@@ -9,7 +9,7 @@ With **15 years building software**:
 
 | When | Role | Where |
 |---|---|---|
-| 2024 – now | Senior Full-Stack Developer | Customs brokerage, Mexico City: web, mobile and AI automation |
+| 2024 – now | Senior Full-Stack Developer | Ocampo Grupo Aduanal (customs brokerage), Mexico City: web, mobile and AI automation |
 | 2022 – 2024 | Software Specialist | Improving: document AI for a medical platform, distributed US and Canada teams |
 | 2020 – 2022 | Senior Backend Engineer | Denumeris: payments, ERP integrations, monitoring |
 | 2015 – 2020 | Software Engineer | BNN: web and mobile apps; introduced Scrum as Scrum Master |
